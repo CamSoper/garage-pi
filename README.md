@@ -1,2 +1,2 @@
 # garage-pi
-My raspberry-pi based Garage Door opener (integrates with my Puppet project)
+Garage door module for Puppet.
